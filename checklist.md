@@ -1,0 +1,1 @@
+[ ] Confirmar nos logs que o Flash Attention está ligado OLLAMA_FLASH_ATTENTION = Enabled
